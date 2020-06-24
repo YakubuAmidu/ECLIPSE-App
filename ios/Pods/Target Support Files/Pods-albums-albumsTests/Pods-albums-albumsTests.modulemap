@@ -1,0 +1,6 @@
+module Pods_albums_albumsTests {
+  umbrella header "Pods-albums-albumsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
