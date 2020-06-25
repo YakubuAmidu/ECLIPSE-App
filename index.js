@@ -5,7 +5,7 @@ import AlbumList from './src/components/AlbumList';
 
 const App = () =>  (
   <View style={{ flex: 1 }}>
-  <Header headerText={' ECLIPSE! '}/>
+  <Header headerText={'ECLIPSE!'}/>
   <AlbumList />
   </View>
 );
