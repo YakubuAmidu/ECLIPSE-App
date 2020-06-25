@@ -16,7 +16,7 @@ const AlbumDetail = ({ album }) => {
   return (
     <Card>
       <CardSection>
-        <View style={thumbnailContainerStyle}>
+        <View style={ thumbnailContainerStyle}>
           <Image
             style={thumbnailStyle}
             source={{ uri: thumbnail_image }}
